@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms - Java**
 
+- 👯 My Latest Project [Alumni Portal](https://github.com/techbooster08/Alumni-Portal.git)
+  
 - 🤝 My deployed Project [Book Store](https://github.com/techbooster08/Book-Store.git)
 
-- 👯 My Latest Project [Alumni Portal](https://github.com/techbooster08/Alumni-Portal.git)
 
 - 💬 Ask me about **FullStack Developent, Java, DSA**
 
