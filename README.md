@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Pawar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on [Expense Tracker](github.expensetracker.com)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/techbooster08/Expense-Tracker)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms - Java**
 
