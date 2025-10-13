@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **akashpawar.dev@gmail.com**
 
-- 📄 Know about my experiences [www.myresume.com](www.myresume.com)
+- 📄 Know about my experiences [Click to view my Resume](https://drive.google.com/file/d/1gI51qyNwX5tnmp0nNTmnn2cG2FO7ofMa/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am a Great Learner**
 
