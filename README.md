@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Akash Pawar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/techbooster08/Expense-Tracker)
+- 🔭 I’m currently working on [LetsChat](https://github.com/techbooster08/letsChat)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms - Java**
-
-- 👯 My Latest Project [Alumni Portal](https://github.com/techbooster08/Alumni-Portal.git)
+- 🤝 My Latest Project [Expense Tracker](https://github.com/techbooster08/Expense-Tracker)
+- 👯 My Project [Alumni Portal](https://github.com/techbooster08/Alumni-Portal.git)
   
-- 🤝 My deployed Project [Book Store](https://github.com/techbooster08/Book-Store.git)
 
 
-- 💬 Ask me about **FullStack Developent, Java, DSA**
+- 💬 Ask me about **FullStack Developent**
 
 - 📫 How to reach me **akashpawar.dev@gmail.com**
 
-- 📄 Know about my experiences [Click to view my Resume](https://drive.google.com/file/d/1gI51qyNwX5tnmp0nNTmnn2cG2FO7ofMa/view?usp=drive_link)
+- 📄 Know about my experiences [Click to view my Resume](https://onedrive.live.com/:w:/g/personal/6387f36264a6d3aa/IQCEUjmzXOm_R5lnHE0baxfzAWhO_zgzuOR31EHbMrPTORI?rtime=PF20KtJb3kg&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy82Mzg3ZjM2MjY0YTZkM2FhL0lRQ0VVam16WE9tX1I1bG5IRTBiYXhmekFXaE9femd6dU9SMzFFSGJNclBUT1JJP2U9dlgxSmNZ)
 
 - ⚡ Fun fact **I think I am a Great Learner**
 
